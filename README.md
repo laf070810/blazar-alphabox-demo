@@ -20,3 +20,6 @@ Clone this project and write your code in it. When you use the blazar lib, just 
 ## TODO
 1. Design and implement more APIs for the blazar lib. 
 2. Detach the blazar lib from this specific board and add porting layer to make the lib more universal. 
+
+## License
+This project is MIT licensed. Open source codes used in this project are subjected to their own licenses. 
