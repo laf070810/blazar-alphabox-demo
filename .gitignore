@@ -1,1 +1,5 @@
 debug/
+output/
+JLinkLog.txt
+/*.uvguix.*
+/*.uvoptx
